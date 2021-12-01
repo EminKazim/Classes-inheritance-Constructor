@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Store ierarxiya/1.0.0": {
+        "runtime": {
+          "Store ierarxiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store ierarxiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
